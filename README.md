@@ -1,6 +1,7 @@
 ## Hi everyone, I'm Filipe Santos 👋
 
 <div>
+  background-color: green;
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Filipe-Ti&theme=dark&show_icons=true/>
 </div>
 
